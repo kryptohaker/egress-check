@@ -1,0 +1,29 @@
+# Internal fork documentation
+/FORK_README.md
+
+# Egress assessment results
+results.json
+results-*.json
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor and IDE settings
+.vscode/
+.idea/
+
+# macOS metadata
+.DS_Store
+
+# Local environment files
+.env
+.env.*
